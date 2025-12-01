@@ -1,2 +1,1 @@
-# The-lcd-screen
-lcd 16x2 screen with arduino
+This project uses an Arduino microcontroller to display text and information on an LCD screen. The LCD is connected to the Arduino using digital pins (or an I2C module), allowing the board to control the characters shown on the screen. The program updates the display with messages, sensor readings, or custom data. This project demonstrates basic Arduino programming, wiring, and the use of libraries to control an LCD module.
